@@ -72,6 +72,8 @@ function appandRow(data) {
   
       `); 
   } 
+
+//   Brisanje kolokvijuma
   $("#btn-obrisi").click(function (event) { 
     event.preventDefault(); 
     console.log("Brisanje je pokrenuto"); 
