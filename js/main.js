@@ -1,3 +1,4 @@
+// AJAX
 console.log("Uspesno si se povezao sa js skriptom");
 
 $("#dodajForm").submit(function(event) {
