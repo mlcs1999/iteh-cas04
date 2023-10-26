@@ -1,4 +1,4 @@
-// AJAX - asinhroni javascript i xml
+// AJAX - asinhroni javascript i xml  
 console.log("Uspesno si se povezao sa js skriptom");
 
 $("#dodajForm").submit(function(event) {
