@@ -1,4 +1,5 @@
 <?php
+// komentar u home.php
 
 require "./dbBroker.php";
 require "model/prijava.php";
